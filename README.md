@@ -6,9 +6,13 @@ Full Stack Developer
 
 Innovative IT professional offering vast experience leveraging software engineering and DevOps methodologies to deliver highly effective and creative solutions to business and technology challenges. Utilizes highly attuned analytical skills to develop IT and business strategies employing cutting-edge technologies to increase productivity. Consistently drives high service standards through effective project management, communication, and strategic planning to develop and manage strong client relationships. Highly organized with a solid capacity to prioritize workload, delegate deliverables, and steer project completion within established deadlines.
 
-*   🌍  I'm based in Sri Lanka
-*   🖥️  See my portfolio at [aminduishara.com](http://aminduishara.com)
-*   ✉️  You can contact me at [aminduishara@gmail.com](mailto:aminduishara@gmail.com)### Skills 
+* 🌍  I'm based in Sri Lanka
+* 🖥️  See my portfolio at [aminduishara.com](http://aminduishara.com)
+* ✉️  You can contact me at [aminduishara@gmail.com](mailto:aminduishara@gmail.com)
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -29,18 +33,22 @@ Innovative IT professional offering vast experience leveraging software engineer
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-Socials
-                  
-                  
-<p align="left">
-                          
-                      <a href="https://www.github.com/aminduishara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://aminduishara.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/amindu-saputhanthri-9a4b106b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/AminduAI" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/aminduishara"><img src="https://github-readme-stats.vercel.app/api?username=aminduishara&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aminduishara's GitHub stats" /></a><a
-                      href="http://www.github.com/aminduishara"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=aminduishara&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/aminduishara" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminduishara&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/aminduishara"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/aminduishara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://aminduishara.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amindu-saputhanthri-9a4b106b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AminduAI" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/aminduishara"><img src="https://github-readme-stats.vercel.app/api?username=aminduishara&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aminduishara's GitHub stats" /></a>
+
+<a href="http://www.github.com/aminduishara"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=aminduishara&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/aminduishara" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminduishara&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/aminduishara"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
