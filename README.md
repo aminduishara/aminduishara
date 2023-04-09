@@ -6,7 +6,7 @@ Full Stack Developer
 
 Innovative IT professional offering vast experience leveraging software engineering and DevOps methodologies to deliver highly effective and creative solutions to business and technology challenges. Utilizes highly attuned analytical skills to develop IT and business strategies employing cutting-edge technologies to increase productivity. Consistently drives high service standards through effective project management, communication, and strategic planning to develop and manage strong client relationships. Highly organized with a solid capacity to prioritize workload, delegate deliverables, and steer project completion within established deadlines.
 
-* 🌍  I'm based in Sri Lanka
+* 🌍  I'm based in UAE
 * 🖥️  See my portfolio at [aminduishara.com](http://aminduishara.com)
 * ✉️  You can contact me at [aminduishara@gmail.com](mailto:aminduishara@gmail.com)
 
