@@ -1,52 +1,105 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amindu Ishara
-=====================================================================================================================================
+<div align="center">
 
-Full Stack Developer
---------------------
+# Hi, I'm Amindu Ishara
 
-Innovative IT professional offering vast experience leveraging software engineering and DevOps methodologies to deliver highly effective and creative solutions to business and technology challenges. Utilizes highly attuned analytical skills to develop IT and business strategies employing cutting-edge technologies to increase productivity. Consistently drives high service standards through effective project management, communication, and strategic planning to develop and manage strong client relationships. Highly organized with a solid capacity to prioritize workload, delegate deliverables, and steer project completion within established deadlines.
+### Full Stack Developer from Sri Lanka
 
-* 🌍  I'm based in Sri Lanka
-* 🖥️  See my portfolio at [aminduishara.com](http://aminduishara.com)
-* ✉️  You can contact me at [aminduishara@gmail.com](mailto:aminduishara@gmail.com)
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="120" />
 
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<p>
+  <a href="https://aminduishara.com">
+    <img src="https://img.shields.io/badge/Portfolio-aminduishara.com-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:aminduishara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aminduishara@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/amindu-saputhanthri-9a4b106b">
+    <img src="https://img.shields.io/badge/LinkedIn-Amindu Ishara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
+</div>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/aminduishara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://aminduishara.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amindu-saputhanthri-9a4b106b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AminduAI" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+## About Me
 
-### Badges
+I'm an innovative IT professional and Full Stack Developer with experience in software engineering, DevOps practices, and creative digital solutions.
 
-<b>My GitHub Stats</b>
+I enjoy building scalable applications, solving real-world business problems, and working with modern web technologies to deliver clean, reliable, and user-focused products.
 
-<a href="http://www.github.com/aminduishara"><img src="https://github-readme-stats.vercel.app/api?username=aminduishara&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aminduishara's GitHub stats" /></a>
+- Based in Sri Lanka
+- Portfolio: [aminduishara.com](https://aminduishara.com)
+- Email: [aminduishara@gmail.com](mailto:aminduishara@gmail.com)
+- Open to collaboration on web, mobile, and full stack projects
 
-<a href="https://github.com/aminduishara" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminduishara&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-### Support Me
+## Tech Stack
 
-<a href="https://www.buymeacoffee.com/aminduishara"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,jquery,sass,tailwind,bootstrap" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,firebase" />
+</p>
+
+### Mobile, Design & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,figma,ps,xd" />
+</p>
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://www.github.com/aminduishara">
+    <img src="https://img.shields.io/badge/GitHub-aminduishara-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/amindu-saputhanthri-9a4b106b">
+    <img src="https://img.shields.io/badge/LinkedIn-Amindu Ishara-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.twitter.com/AminduAI">
+    <img src="https://img.shields.io/badge/Twitter-@AminduAI-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://aminduishara.hashnode.dev">
+    <img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aminduishara&show_icons=true&count_private=true&hide=prs,issues&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminduishara&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" />
+
+</div>
+
+---
+
+## Support Me
+
+<p>
+  <a href="https://www.buymeacoffee.com/aminduishara">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile
+
+</div>
