@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=180&section=header&text=Amindu%20Ishara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=200&section=header&text=Amindu%20Ishara&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-### Full Stack Developer | Software Engineer | DevOps Enthusiast
+### Full Stack Developer & Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;Creating+scalable+digital+solutions;Passionate+about+clean+code+and+technology" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=0891B2&center=true&vCenter=true&width=680&lines=Building+scalable+web+applications;Crafting+clean+and+reliable+code;Turning+ideas+into+beautiful+digital+products" />
 
 <br />
 
@@ -24,17 +24,17 @@
 
 ## About Me
 
-I'm **Amindu Ishara**, a Full Stack Developer based in Sri Lanka with a strong passion for building reliable, elegant, and user-focused digital products.
+Hello, I'm **Amindu Ishara** — a Full Stack Developer based in Sri Lanka who loves turning complex problems into simple, elegant, and high-performing digital solutions.
 
-I have experience working across the full software development lifecycle, from planning and UI design to frontend development, backend engineering, database management, deployment, and maintenance. My work combines software engineering, DevOps practices, and creative problem-solving to deliver solutions that are practical, scalable, and aligned with real business needs.
+I work across the entire development lifecycle — from crafting intuitive user interfaces and building robust backend systems to managing databases, deploying applications, and maintaining production environments. My approach blends strong software engineering fundamentals with modern DevOps practices and a focus on clean, maintainable code.
 
-I enjoy transforming ideas into polished applications, improving existing systems, and exploring modern technologies that help teams work faster and smarter. I value clean code, strong communication, continuous learning, and building long-term relationships through dependable technical delivery.
+I thrive on creating products that are not only functional but also delightful to use. Whether it's a web application, mobile experience, or internal tool, I aim to deliver solutions that are scalable, reliable, and aligned with real business goals.
 
 - Based in Sri Lanka
 - Portfolio: [aminduishara.com](https://aminduishara.com)
 - Email: [aminduishara@gmail.com](mailto:aminduishara@gmail.com)
-- Interested in full stack development, web applications, mobile apps, UI/UX, and DevOps
-- Open to collaboration, freelance projects, and innovative product ideas
+- Passionate about full-stack development, UI/UX, and continuous learning
+- Open to freelance projects, collaborations, and interesting product ideas
 
 ---
 
@@ -42,17 +42,14 @@ I enjoy transforming ideas into polished applications, improving existing system
 
 <div align="center">
 
-### Frontend
-
+**Frontend**  
 <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,sass,tailwind,bootstrap" />
 
-### Backend & Database
-
+**Backend & Databases**  
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,firebase" />
 
-### Mobile, Design & Tools
-
-<img src="https://skillicons.dev/icons?i=flutter,figma,ps,xd,git,github,vscode" />
+**Mobile & Tools**  
+<img src="https://skillicons.dev/icons?i=flutter,figma,ps,xd,git,github" />
 
 </div>
 
@@ -79,26 +76,18 @@ I enjoy transforming ideas into polished applications, improving existing system
 
 ---
 
-## GitHub Insights
+## GitHub Activity
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminduishara&theme=github_dark" />
 
-<br />
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminduishara&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminduishara&theme=github_dark" />
-
-<br />
-<br />
+<br /><br />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aminduishara&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aminduishara&theme=github_dark&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminduishara&theme=github_dark" />
 
-<br />
-<br />
+<br /><br />
 
 <img src="https://streak-stats.demolab.com?user=aminduishara&theme=dark&hide_border=true&background=1c1917&ring=0891B2&fire=0891B2&currStreakLabel=0891B2" />
 
@@ -106,7 +95,7 @@ I enjoy transforming ideas into polished applications, improving existing system
 
 ---
 
-## Support Me
+## Support My Work
 
 <div align="center">
 
