@@ -76,25 +76,6 @@ I thrive on creating products that are not only functional but also delightful t
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminduishara&theme=github_dark" />
-
-<br /><br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aminduishara&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminduishara&theme=github_dark" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=aminduishara&theme=dark&hide_border=true&background=1c1917&ring=0891B2&fire=0891B2&currStreakLabel=0891B2" />
-
-</div>
-
----
-
 ## Support My Work
 
 <div align="center">
