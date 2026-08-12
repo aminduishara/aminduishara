@@ -34,7 +34,6 @@ I thrive on creating products that are not only functional but also delightful t
 - Portfolio: [aminduishara.com](https://aminduishara.com)
 - Email: [aminduishara@gmail.com](mailto:aminduishara@gmail.com)
 - Passionate about full-stack development, UI/UX, and continuous learning
-- Open to freelance projects, collaborations, and interesting product ideas
 
 ---
 
@@ -70,18 +69,6 @@ I thrive on creating products that are not only functional but also delightful t
 </a>
 <a href="https://aminduishara.hashnode.dev">
   <img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## Support My Work
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/aminduishara">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" />
 </a>
 
 </div>
